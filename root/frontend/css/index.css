@@ -15,6 +15,7 @@ li{
 }
 
 
+
 body{
     background-color: var(--color-bg)
 }
@@ -63,31 +64,33 @@ body{
     background-color: #B7B7A4;
     font-family:'Courier New', Courier, monospace;
     border-radius: 10px;
-    border-width: 5px;
+    border-width: 10px;
 
-    margin-top: 80px;
-    margin-bottom: 20px;;
+    margin-top: 60px;
+    margin-bottom: 35px;
 
-    height: 70px;
+    height: 90px;
     width: 350px;
-    font-size: x-large;
+    font-size: 27px;
    
 }
 
 
 #preview-box{
-    width: 360px;
+    width: 750px;
     height: 450px;
     padding-top: 30px;
     padding-left: 20px;
+    flex-direction: rows;
     display: flex;
-    flex-direction: row;
 }
 
 
 #gen-summary{
    font-family:'Courier New', Courier, monospace;
    font-size: xx-large;
+   margin-left: 33px;
+   
 }
 
 .center-align{
