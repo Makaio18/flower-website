@@ -1,8 +1,13 @@
 #Adriel Makaio Villarreal
 """
-Frame work for the the indvidual data base holding the html data, 
-and how I am going to populate the infromation
+Goal:
+is to learn a fastapi (a package and application prgoramming use, that allows
+me to utilze data from some sort of place to populate my website with all sorts of 
+information 
+)
 """
+
+
 
 
 
